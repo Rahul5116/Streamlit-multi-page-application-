@@ -2,6 +2,9 @@
 
 A multi-page **Streamlit** app that allows users to upload survey data, analyze it, and visualize trends using charts — all inside a Docker container.
 
+
+LIVE DEMO - https://fxyn8ouvnmodhdilheqbsy.streamlit.app/
+
 ---
 
 ## 🚀 Features
